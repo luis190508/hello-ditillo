@@ -4,7 +4,7 @@ public class helloworld
 {
     static void main(String[]args)
     {
-        System.out.println("19 maggio 2008");
+        System.out.println("Forza Spezia");
     }
 
 }
